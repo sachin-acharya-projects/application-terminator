@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Microsoft Edge",
+        "short_name": "Edge",
+        "process": "msedge.exe"
+    },
+    {
+        "name": "Visual Studio Code",
+        "short_name": "vscode",
+        "process": "Code.exe"
+    },{
+        "name": "Android Studio 64",
+        "short_name": "Android Studio",
+        "process": "studio64.exe"
+    },
+    {
+        "name": "Dragon Ball Z: Kakarot",
+        "short_name": "dbzk",
+        "process": "at.exe"
+    }
+]
