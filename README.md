@@ -43,9 +43,9 @@ python main.py --force-admin
 #### Fields in Update field
 * **Application name**  
 Proper/Full name of application that will displayed on menu
-* **Short Name**
+* **Short Name**  
 Name of application in short form (something like username)
-* **Process**
+* **Process**  
 Executable file name of application
 
 #### How to get Executable File name
@@ -60,4 +60,4 @@ pip install colorama
 #### Informations
 Do not delete Options.db file
 #### Test.py
-Ignore this File, it is not necessary for this typical project
+Ignore this File, it is not necessary for this project
