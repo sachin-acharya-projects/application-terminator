@@ -24,21 +24,21 @@ python main.py --force-admin
 * All the Options will be Displayed
 
 #### Options
-1. [All]
-    Case-Insensitive
-        it closes all applications displayed on menu
-2. [Cl/Clear]
-    Case-Insensitive
-        Clear Console Screen
-3. [DS]
-    Case-Insensitive
-    Displays this menu
-4. [UP]
-    Case-Insensitive
-    Update database meaning adding new applications to the list so we can close it from this program next time.
-5. [Integer]
-    This are the index of applications as shown in the menu
-    Multiple application can be choosed by separating indices with whitespace (space)
+1. [All]  
+    Case-Insensitive  
+        it closes all applications displayed on menu  
+2. [Cl/Clear]  
+    Case-Insensitive  
+        Clear Console Screen  
+3. [DS]  
+    Case-Insensitive  
+    Displays this menu  
+4. [UP]  
+    Case-Insensitive  
+    Update database meaning adding new applications to the list so we can close it from this program next time.  
+5. [Integer]  
+    This are the index of applications as shown in the menu  
+    Multiple application can be choosed by separating indices with whitespace (space)  
 
 #### Fields in Update field
 * **Application name**  
