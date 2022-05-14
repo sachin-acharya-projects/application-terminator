@@ -11,9 +11,9 @@ unused application running on background. They can easily free memory space by t
 
 #### Need to Know  
 How to use the application.  
-*. RUN CMD/POWERSHELL with UAC if possible  
-*. Navigate to Installed folder  
-*. Execute Following command  
+* RUN CMD/POWERSHELL with UAC if possible  
+* Navigate to Installed folder  
+* Execute Following command  
 ````cmd
 python main.py
 ````
