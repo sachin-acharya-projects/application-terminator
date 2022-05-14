@@ -9,11 +9,11 @@ This program can be usefull to anybody especially to those who needs to launch/o
 and after completion of work, needs to close all of them one-by-one. This is also for those whose PC lags due to multiple  
 unused application running on background. They can easily free memory space by termination those applications
 
-#### Need to Know
-How to use the application.
-*. RUN CMD/POWERSHELL with UAC if possible
-*. Navigate to Installed folder
-*. Execute Following command
+#### Need to Know  
+How to use the application.  
+*. RUN CMD/POWERSHELL with UAC if possible  
+*. Navigate to Installed folder  
+*. Execute Following command  
 ````cmd
 python main.py
 ````
