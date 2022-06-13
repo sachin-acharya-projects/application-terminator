@@ -1,5 +1,5 @@
 # Importing required modules
-import subprocess, time, os, ctypes
+import subprocess, time, os, ctypes, sys
 from colorama import Fore, init
 from database_handle import Options
 from py_setenv import setenv
@@ -153,4 +153,4 @@ if __name__ == '__main__':
         time.sleep(1)
     else:
         displayMessage()
-    exit(0)
+    sys.exit(0)
