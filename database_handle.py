@@ -2,8 +2,8 @@
 import sqlite3, os
 
 class Options:
-    def __init__(self):
-        self.dbname = "Options.db"
+    def __init__(self, path_):
+        self.dbname = os.path.join(path_, "Options.db")
         self.isExisted = False
         if not os.path.exists(self.dbname):
             self.isExisted = False

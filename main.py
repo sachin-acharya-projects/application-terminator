@@ -6,7 +6,7 @@ from py_setenv import setenv
 init(autoreset=True)
 class ClosingApp:
     def __init__(self):
-        self.__instance__ = Options()
+        self.__instance__ = Options(os.path.dirname(os.path.abspath(__file__)))
     def init(self):
         pass # Currently do nothing
     def display(self):
